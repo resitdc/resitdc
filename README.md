@@ -1,5 +1,4 @@
-### Hi there 👋
-### Restu here
+### Hi there 👋 i'm Restu D. Cahyo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resitdc&theme=tokyonight)
 
