@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Clear Digital Assistant, RRQ Guild APP, and BACOD E-Learning, Rooftop Coffee
+- 🔭 I’m currently working on JumpaPay, Gamaloka and POSME
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Javascript and Typescript
 - 💬 Ask me about anything
