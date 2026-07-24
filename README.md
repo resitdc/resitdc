@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on POSME, RESITDC and ESCAPE NOMADE
+- 🔭 I’m currently working on POSME, RESITDC, RAKODA and ESCAPE NOMADE
 - 🌱 I’m currently learning Business
 - 👯 I’m looking to collaborate on Rust and Typescript
 - 💬 Ask me about anything
